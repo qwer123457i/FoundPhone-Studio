@@ -1,0 +1,662 @@
+{
+  "scriptVersion": 1,
+  "id": "huangshuo-zhangzimo-foundphone",
+  "title": "偏爱有迹可循｜黄朔×张子墨",
+  "description": "时代峰峻三代背景的虚构同人互动手机故事。无校园设定，以集训日常、专属偏爱、误会拉扯和双向确认展开；内容为创作演绎，不代表现实人物真实关系。",
+  "revision": 1,
+  "phone": {
+    "owner": "黄朔",
+    "date": "2026-10-25",
+    "time": "22:16",
+    "battery": 67,
+    "network": "5G",
+    "wallpaper": "sage",
+    "theme": "light"
+  },
+  "installedApps": [
+    "phone",
+    "messages",
+    "contacts",
+    "photos",
+    "notes",
+    "calendar",
+    "settings",
+    "wechat",
+    "qq",
+    "twitter",
+    "instagram",
+    "camera",
+    "files",
+    "music"
+  ],
+  "contacts": [
+    {
+      "id": "zimo",
+      "name": "张子墨",
+      "phone": "",
+      "bio": "同组练习生｜总是先发消息的那个人",
+      "avatar": ""
+    },
+    {
+      "id": "practice-group",
+      "name": "三代排练群",
+      "phone": "",
+      "bio": "排练安排与日常碎片",
+      "avatar": ""
+    },
+    {
+      "id": "assistant-note",
+      "name": "备忘录",
+      "phone": "",
+      "bio": "黄朔没有发出去的话",
+      "avatar": ""
+    }
+  ],
+  "chats": [
+    {
+      "id": "wechat-zimo",
+      "app": "wechat",
+      "title": "张子墨",
+      "participants": [
+        "owner",
+        "zimo"
+      ],
+      "messages": [
+        {
+          "id": "wx-001",
+          "body": "你到练习室了吗？我刚到，给你留了靠镜子那边的位置。",
+          "senderId": "zimo",
+          "time": "2026-10-18 18:06",
+          "title": ""
+        },
+        {
+          "id": "wx-002",
+          "body": "到了。",
+          "senderId": "owner",
+          "time": "2026-10-18 18:08",
+          "title": ""
+        },
+        {
+          "id": "wx-003",
+          "body": "那我把水放你包旁边啦，刚刚看你没拿。",
+          "senderId": "zimo",
+          "time": "2026-10-18 18:08",
+          "title": ""
+        },
+        {
+          "id": "wx-004",
+          "body": "嗯，谢谢。",
+          "senderId": "owner",
+          "time": "2026-10-18 18:09",
+          "title": ""
+        },
+        {
+          "id": "wx-005",
+          "body": "你每次都只回两个字诶。",
+          "senderId": "zimo",
+          "time": "2026-10-18 18:10",
+          "title": ""
+        },
+        {
+          "id": "wx-006",
+          "body": "不知道说什么。",
+          "senderId": "owner",
+          "time": "2026-10-18 18:10",
+          "title": ""
+        },
+        {
+          "id": "wx-007",
+          "body": "那我多说一点，你听着就好。",
+          "senderId": "zimo",
+          "time": "2026-10-18 18:11",
+          "title": ""
+        },
+        {
+          "id": "wx-008",
+          "body": "好。",
+          "senderId": "owner",
+          "time": "2026-10-18 18:11",
+          "title": ""
+        },
+        {
+          "id": "wx-009",
+          "body": "今天最后一遍走位，你是不是又等我了？",
+          "senderId": "zimo",
+          "time": "2026-10-21 22:43",
+          "title": ""
+        },
+        {
+          "id": "wx-010",
+          "body": "顺路。",
+          "senderId": "owner",
+          "time": "2026-10-21 22:43",
+          "title": ""
+        },
+        {
+          "id": "wx-011",
+          "body": "可是你住的方向和我不一样。",
+          "senderId": "zimo",
+          "time": "2026-10-21 22:44",
+          "title": ""
+        },
+        {
+          "id": "wx-012",
+          "body": "……绕一点也没事。",
+          "senderId": "owner",
+          "time": "2026-10-21 22:45",
+          "title": ""
+        },
+        {
+          "id": "wx-013",
+          "body": "黄朔，你是不是对我特别好？",
+          "senderId": "zimo",
+          "time": "2026-10-23 23:02",
+          "title": ""
+        },
+        {
+          "id": "wx-014",
+          "body": "没有。",
+          "senderId": "owner",
+          "time": "2026-10-23 23:03",
+          "title": ""
+        },
+        {
+          "id": "wx-015",
+          "body": "哦。那我是不是想多了。",
+          "senderId": "zimo",
+          "time": "2026-10-23 23:04",
+          "title": ""
+        },
+        {
+          "id": "wx-016",
+          "body": "我不是那个意思。",
+          "senderId": "owner",
+          "time": "2026-10-23 23:05",
+          "title": ""
+        },
+        {
+          "id": "wx-017",
+          "body": "那你是什么意思呀。",
+          "senderId": "zimo",
+          "time": "2026-10-23 23:05",
+          "title": ""
+        },
+        {
+          "id": "wx-018",
+          "body": "当面说。",
+          "senderId": "owner",
+          "time": "2026-10-23 23:06",
+          "title": ""
+        },
+        {
+          "id": "wx-019",
+          "body": "你每次都这样，话说一半。",
+          "senderId": "zimo",
+          "time": "2026-10-23 23:07",
+          "title": ""
+        },
+        {
+          "id": "wx-020",
+          "body": "明天排练结束，等我一下。",
+          "senderId": "owner",
+          "time": "2026-10-23 23:08",
+          "title": ""
+        },
+        {
+          "id": "wx-021",
+          "body": "好，我等你。",
+          "senderId": "zimo",
+          "time": "2026-10-23 23:08",
+          "title": ""
+        },
+        {
+          "id": "wx-022",
+          "body": "今天你和别人聊得很开心。",
+          "senderId": "owner",
+          "time": "2026-10-24 21:32",
+          "title": ""
+        },
+        {
+          "id": "wx-023",
+          "body": "你在意这个吗？",
+          "senderId": "zimo",
+          "time": "2026-10-24 21:33",
+          "title": ""
+        },
+        {
+          "id": "wx-024",
+          "body": "随便问问。",
+          "senderId": "owner",
+          "time": "2026-10-24 21:34",
+          "title": ""
+        },
+        {
+          "id": "wx-025",
+          "body": "黄朔，你每次说随便，我就不知道该不该靠近你了。",
+          "senderId": "zimo",
+          "time": "2026-10-24 21:35",
+          "title": ""
+        },
+        {
+          "id": "wx-026",
+          "body": "别离我太远。",
+          "senderId": "owner",
+          "time": "2026-10-24 21:36",
+          "title": ""
+        },
+        {
+          "id": "wx-027",
+          "body": "那你也别总让我猜。",
+          "senderId": "zimo",
+          "time": "2026-10-24 21:36",
+          "title": ""
+        },
+        {
+          "id": "wx-028",
+          "body": "明天。排练结束，我认真说。",
+          "senderId": "owner",
+          "time": "2026-10-24 21:37",
+          "title": ""
+        },
+        {
+          "id": "wx-029",
+          "body": "这条消息我先存着。你不许反悔。",
+          "senderId": "zimo",
+          "time": "2026-10-24 21:38",
+          "title": ""
+        },
+        {
+          "id": "wx-secret-clue",
+          "body": "你上次落在我这儿的东西，我收好了。还有，备忘录的标题是我们第一次搭档那天。你自己看看吧。",
+          "senderId": "zimo",
+          "time": "2026-10-25 22:10",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "id": "wechat-group",
+      "app": "wechat",
+      "title": "三代排练群",
+      "participants": [
+        "owner",
+        "zimo",
+        "practice-group"
+      ],
+      "messages": [
+        {
+          "id": "group-001",
+          "body": "明天舞台排练提前半小时，大家记得带好水和护膝。",
+          "senderId": "practice-group",
+          "time": "2026-10-20 16:30",
+          "title": ""
+        },
+        {
+          "id": "group-002",
+          "body": "收到。",
+          "senderId": "owner",
+          "time": "2026-10-20 16:31",
+          "title": ""
+        },
+        {
+          "id": "group-003",
+          "body": "收到！我和黄朔一起对一下最后一段走位。",
+          "senderId": "zimo",
+          "time": "2026-10-20 16:31",
+          "title": ""
+        },
+        {
+          "id": "group-004",
+          "body": "你们俩又一起啊。",
+          "senderId": "practice-group",
+          "time": "2026-10-20 16:32",
+          "title": ""
+        },
+        {
+          "id": "group-005",
+          "body": "搭档比较熟。",
+          "senderId": "owner",
+          "time": "2026-10-20 16:32",
+          "title": ""
+        },
+        {
+          "id": "group-006",
+          "body": "只是搭档吗？",
+          "senderId": "zimo",
+          "time": "2026-10-20 16:33",
+          "title": ""
+        },
+        {
+          "id": "group-007",
+          "body": "先排练。",
+          "senderId": "owner",
+          "time": "2026-10-20 16:33",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "id": "qq-zimo",
+      "app": "qq",
+      "title": "小墨",
+      "participants": [
+        "owner",
+        "zimo"
+      ],
+      "messages": [
+        {
+          "id": "qq-001",
+          "body": "睡了吗？我今天有点没底，最后那遍是不是没跟上你。",
+          "senderId": "zimo",
+          "time": "2026-10-22 00:16",
+          "title": ""
+        },
+        {
+          "id": "qq-002",
+          "body": "跟上了。你转身的时候看我就行。",
+          "senderId": "owner",
+          "time": "2026-10-22 00:17",
+          "title": ""
+        },
+        {
+          "id": "qq-003",
+          "body": "你怎么知道我在担心这个。",
+          "senderId": "zimo",
+          "time": "2026-10-22 00:17",
+          "title": ""
+        },
+        {
+          "id": "qq-004",
+          "body": "你皱眉了。",
+          "senderId": "owner",
+          "time": "2026-10-22 00:18",
+          "title": ""
+        },
+        {
+          "id": "qq-005",
+          "body": "你连这个都注意到呀。",
+          "senderId": "zimo",
+          "time": "2026-10-22 00:18",
+          "title": ""
+        },
+        {
+          "id": "qq-006",
+          "body": "你的事，我会注意。",
+          "senderId": "owner",
+          "time": "2026-10-22 00:19",
+          "title": ""
+        }
+      ]
+    }
+  ],
+  "content": {
+    "notes": [
+      {
+        "id": "note-first-partner",
+        "title": "第一次搭档｜没发出去的话",
+        "body": "那天他先问我是不是冷。其实练习室一点也不冷，是我不知道怎么回应他。后来他总是先来找我说话，我也开始习惯先看手机。\\n\\n我不是不想回他，只是每次想多说一点，最后又只剩一句“嗯”。\\n\\n他问我是不是对他特别好。我说没有。其实不是没有，是我怕说出口之后，连现在这样都留不住。",
+        "kind": "note",
+        "time": "2026-10-23 23:20",
+        "hidden": true
+      },
+      {
+        "id": "note-final-talk",
+        "title": "明天要说清楚",
+        "body": "如果他还愿意等我，我就不再用“顺路”“随便”敷衍他。\\n\\n我会告诉他：排练结束后想和他一起走，不是顺路；看到他和别人走得近会在意，也不是随便问问。\\n\\n我只是一直不知道，怎么才能让他相信，他是例外。",
+        "kind": "note",
+        "time": "2026-10-24 23:50",
+        "hidden": true
+      },
+      {
+        "id": "note-draft",
+        "title": "备忘录｜第一次搭档那天",
+        "body": "黄朔：我以为只要一直陪着他，他就会知道。\\n\\n可是他每次问，我都说得像不在意。明明最想让他留下的人是我。\\n\\n如果他真的觉得我冷淡，我想亲口告诉他：不是不在意，是太在意了，所以每句话都要想很久。\\n\\n明天排练结束，我会等他。",
+        "kind": "note",
+        "time": "2026-10-25 22:12",
+        "hidden": true
+      }
+    ],
+    "calendar": [
+      {
+        "id": "calendar-rehearsal-1",
+        "title": "舞台排练",
+        "body": "最后一遍走位确认｜搭档：张子墨",
+        "time": "2026-10-24 18:30",
+        "kind": "event"
+      },
+      {
+        "id": "calendar-rehearsal-2",
+        "title": "排练结束后",
+        "body": "别走太快。把想说的话说完。",
+        "time": "2026-10-25 21:30",
+        "kind": "event"
+      }
+    ],
+    "photos": [
+      {
+        "id": "photo-water",
+        "title": "练习室角落的两瓶水",
+        "body": "一瓶贴着黄朔的名字，另一瓶放在他旁边。照片没有拍到人，只拍到了并排的两瓶水。",
+        "time": "2026-10-21 20:40",
+        "kind": "image"
+      },
+      {
+        "id": "photo-mirror",
+        "title": "镜子里的半个影子",
+        "body": "舞蹈室镜面反光里，两个人站得很近。照片有些模糊，但手机主人没有删掉。",
+        "time": "2026-10-24 19:52",
+        "kind": "image"
+      }
+    ],
+    "twitter": [
+      {
+        "id": "tw-post-1",
+        "title": "黄朔",
+        "body": "有些人说话很吵，但不在的时候又太安静。",
+        "sender": "黄朔",
+        "time": "2026-10-22 23:41",
+        "kind": "post",
+        "likes": 12,
+        "comments": [
+          "这说的是谁啊",
+          "突然文艺起来了"
+        ]
+      },
+      {
+        "id": "tw-post-2",
+        "title": "张子墨",
+        "body": "今天有人把水放在我手边。明明没说什么，但还是会记很久。",
+        "sender": "张子墨",
+        "time": "2026-10-23 20:12",
+        "kind": "post",
+        "likes": 18,
+        "comments": [
+          "记性真好",
+          "感觉有人被偏爱了"
+        ]
+      },
+      {
+        "id": "tw-post-hidden",
+        "title": "草稿箱",
+        "body": "想问他：如果我不主动找你，你会不会也来找我？\\n\\n算了，明天当面问。",
+        "sender": "张子墨",
+        "time": "2026-10-24 23:08",
+        "kind": "post",
+        "hidden": true
+      }
+    ],
+    "music": [
+      {
+        "id": "music-rehearsal",
+        "title": "排练循环歌单",
+        "body": "重复播放：最后一遍走位时的背景音乐。歌单备注：有人说转身的时候看他就行。",
+        "sender": "黄朔",
+        "time": "2026-10-22 00:22",
+        "kind": "note"
+      }
+    ],
+    "phone": [
+      {
+        "id": "phone-recent-1",
+        "title": "最近通话",
+        "body": "张子墨｜未接来电 00:04。备注：排练结束后等你。",
+        "sender": "张子墨",
+        "time": "2026-10-25 21:58",
+        "kind": "call"
+      }
+    ]
+  },
+  "variables": {
+    "honestEnding": false
+  },
+  "events": [
+    {
+      "id": "phone-start",
+      "label": "手机亮起",
+      "type": "start",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "",
+          "value": "微信：张子墨发来一条消息"
+        }
+      ]
+    },
+    {
+      "id": "unlock-note",
+      "label": "从聊天找到备忘录",
+      "type": "event",
+      "event": "read",
+      "target": "wx-secret-clue",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "note-draft",
+          "value": true
+        },
+        {
+          "type": "unlock",
+          "key": "tw-post-hidden",
+          "value": true
+        },
+        {
+          "type": "unlock",
+          "key": "note-first-partner",
+          "value": true
+        },
+        {
+          "type": "unlock",
+          "key": "note-final-talk",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "备忘录：几条隐藏记录已解锁"
+        }
+      ],
+      "next": [
+        "read-note"
+      ]
+    },
+    {
+      "id": "read-note",
+      "label": "读完没发出去的话",
+      "type": "event",
+      "event": "read",
+      "target": "note-draft",
+      "next": [
+        "truth-choice"
+      ]
+    },
+    {
+      "id": "truth-choice",
+      "label": "你会怎么做？",
+      "type": "choice",
+      "next": [
+        "ending-honest",
+        "ending-silent"
+      ]
+    },
+    {
+      "id": "ending-honest",
+      "label": "这次不让你猜",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "honestEnding",
+          "value": true
+        },
+        {
+          "type": "ending",
+          "key": "",
+          "value": "双向确认：排练结束后，黄朔没有再说“顺路”。他站在张子墨面前，认真地说自己一直在意。张子墨笑着问他为什么不早说，黄朔只回答：以后不会让你猜了。"
+        }
+      ]
+    },
+    {
+      "id": "ending-silent",
+      "label": "再等一会儿",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "暂时错过：黄朔把备忘录合上，还是没能立刻说出口。张子墨没有离开，只是把那句“我等你”留在聊天框里。故事停在下一次主动之前。"
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "双向确认主线",
+      "steps": [
+        {
+          "event": "read",
+          "target": "wx-secret-clue"
+        },
+        {
+          "event": "read",
+          "target": "note-draft"
+        },
+        {
+          "choose": "ending-honest",
+          "target": ""
+        }
+      ],
+      "ending": "双向确认：排练结束后，黄朔没有再说“顺路”。他站在张子墨面前，认真地说自己一直在意。张子墨笑着问他为什么不早说，黄朔只回答：以后不会让你猜了。",
+      "expectUnlocked": [
+        "note-draft",
+        "tw-post-hidden",
+        "note-first-partner",
+        "note-final-talk"
+      ]
+    },
+    {
+      "name": "暂时错过支线",
+      "steps": [
+        {
+          "event": "read",
+          "target": "wx-secret-clue"
+        },
+        {
+          "event": "read",
+          "target": "note-draft"
+        },
+        {
+          "choose": "ending-silent",
+          "target": ""
+        }
+      ],
+      "ending": "暂时错过：黄朔把备忘录合上，还是没能立刻说出口。张子墨没有离开，只是把那句“我等你”留在聊天框里。故事停在下一次主动之前。",
+      "expectUnlocked": [
+        "note-draft",
+        "tw-post-hidden",
+        "note-first-partner",
+        "note-final-talk"
+      ]
+    }
+  ]
+}
+
